@@ -14,6 +14,7 @@ This is a **Portfolio** project owned by **Dylan-StudioChimera**. The repository
 
 ```
 Portfolio/
+├── .mcp.json          # MCP server configuration (Figma)
 ├── CLAUDE.md          # This file — AI assistant guide
 └── (empty)            # Project files to be added
 ```
@@ -89,6 +90,7 @@ _(To be updated as the project takes shape.)_
 
 | File / Directory | Purpose |
 |------------------|---------|
+| `.mcp.json`      | MCP server configuration (Figma remote server) |
 | `CLAUDE.md`      | AI assistant guide (this file) |
 
 ## Updating This File
